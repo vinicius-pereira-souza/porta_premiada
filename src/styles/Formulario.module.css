@@ -1,0 +1,24 @@
+.formulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.formulario > div {
+  display: flex;
+}
+
+.formulario a {
+  flex: 1;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  margin: 0;
+  height: 100%;
+}
